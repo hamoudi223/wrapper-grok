@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "functions": {
+    "api/toxic.js": {
+      "maxDuration": 60
+    }
+  }
+}
